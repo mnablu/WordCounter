@@ -1,4 +1,4 @@
-/**
+/*
  * Created by Marc Nablu on 9/03/15.
  */
 public class App {
